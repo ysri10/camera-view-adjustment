@@ -1,0 +1,5 @@
+*.DS_Store
+full/
+lite/
+release/
+draft/
